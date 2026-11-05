@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gamertsj99.github.io/krishna-teaching-propagation-association/sitemap.xml
